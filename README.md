@@ -1,5 +1,3 @@
-Certainly! Here's a sample README for your project:
-
 ```markdown
 # QR Code Generator
 
